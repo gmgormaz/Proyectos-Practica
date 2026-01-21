@@ -4,10 +4,41 @@ import numpy as np
 import openpyxl
 from openpyxl.styles import Font
 
-df = pd.read_csv("Raw Data/Measurements-.csv")
-
+df = pd.read_csv("Measurements-.csv")
 prueba = ["Prueba de lazo sin disparos"]
 df = df[df["Test Function"].isin(prueba)].copy()
+
+ZS_MAX = {
+    "B": {2:22, 4:11, 6:7.3, 10:4.4, 16:2.8, 20:2.2, 25:1.8, 32:1.4, 35:1.3, 40:1.1, 50:0.9, 63:0.7},
+    "C": {2:11, 4:5.5, 6:3.65, 10:2.2, 16:1.4, 20:1.1, 25:0.9, 32:0.7, 35:0.65, 40:0.55, 50:0.45, 63:0.35},
+    "D": {2:5.5, 4:2.8, 6:1.83, 10:1.1, 16:0.7, 20:0.55, 25:0.45, 32:0.34, 35:0.31, 40:0.27, 50:0.22, 63:0.17},
+}
+
+def pedir_in():
+    while True:
+        try:
+            return int(input("In [A] (ej 16): ").strip())
+        except:
+            print("In inválido.")
+
+def pedir_curva():
+    while True:
+        c = input("Curva (B/C/D): ").strip().upper()
+        if c in ("B", "C", "D"):
+            return c
+        print("Curva inválida.")
+
+n = len(df)
+
+datos = {}
+for i in range(1, n + 1):
+    print(f"\n--- Circuito {i}/{n} ---")
+    In = pedir_in()
+    curva = pedir_curva()
+    zsmax = ZS_MAX.get(curva, {}).get(In, np.nan)
+
+    datos[i] = {"In": In, "curva": curva, "zsmax": zsmax}
+
 
 df["Zs Max."] = ""
 df["IPCC [A]"] = ""
@@ -24,6 +55,10 @@ cols_base = [
     "Sub Measurement 3",
     "IPCC [A]",
 ]
+
+df["In[A]/Curva/KA"] = [datos[i]["curva"] for i in range(1, len(df) + 1)]
+df["Zs Max."] = [datos[i]["zsmax"] for i in range(1, len(df) + 1)]
+
 
 conforme_sub = ["SI", "NO", "N/A", "Observación"]
 
@@ -97,3 +132,5 @@ for c in range(1, max_col + 1):
     ws.cell(row=2, column=c).font = bold
 
 wb.save(path)
+
+
