@@ -101,4 +101,5 @@ else:
         
         df = add_row(df, {"Configuración": " ", "Circuito": " ", "Resistencia": "     ",
                                "Conformidad": "  ", "Observación": "                           " })
-    df.to_csv("output.csv", index=False)
+    df.to_csv("Tablas_vacias/Tabla_impresion.csv", index=False)
+
