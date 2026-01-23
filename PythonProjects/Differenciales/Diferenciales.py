@@ -52,7 +52,6 @@ def limpiar_valor(x):
 
 perm = [0, 1, 2, 3, 4, 9, 10, 7, 8, 5, 6, 11, 12, 13, 14, 15, 16]
 
-df = pd.read_csv("Raw Data\diff.csv")
 df = df.iloc[::-1].reset_index(drop=True)
 
 col = df.columns[9]
@@ -161,3 +160,4 @@ for c in range(start_col, end_col + 1):
 row_extra = out.columns.nlevels + 1
 ws.delete_rows(row_extra)
 wb.save(path)
+
