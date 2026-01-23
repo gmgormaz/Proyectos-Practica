@@ -45,7 +45,7 @@ df2 = df2[df2["Test Function"].isin(prueba2)].copy()
 def pedir_in():
     while True:
         try:
-            return int(input("In [A] (ej 16): ").strip())
+            return int(input("In [A]: ").strip())
         except:
             print("In inválido.")
 
@@ -131,3 +131,4 @@ for c in range(1, max_col + 1):
     ws.cell(row=2, column=c).font = bold
 
 wb.save(path)
+
