@@ -1,0 +1,474 @@
+Fecha de captura,Level A,Description level A,Level B,Description level B,Level C,Description level C,Test Function,Configuración,Primary Measurement,Sub Measurement 1,Sub Measurement 2,Sub Measurement 3,Sub Measurement 4,Sub Measurement 5,Sub Measurement 6,Remark,Notas,Activo,Orden de trabajo,ID de usuario,Número de modelo,Nombre de la herramienta,Número de serie
+31 dic 1969 21:01:30,1002,,1,,1,,Prueba de continuidad,N-PE,0.24 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:30,1002,,1,,1,,Prueba de continuidad,N-PE,0.23 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:30,1002,,1,,1,,Prueba de continuidad,L-PE,0.27 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:30,1002,,1,,1,,Prueba de continuidad,L-PE,0.27 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:30,1002,,1,,1,,Prueba de continuidad,L-N,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1002,,1,,1,,Prueba de continuidad,L-N,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,N-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,N-PE,0.32 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,L-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,L-PE,0.53 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,L-N,0.46 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,1001,,1,,1,,Prueba de continuidad,L-N,0.47 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2002,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,514 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2002,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2002,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+,,,,,,,Prueba de aislamiento,N-PE,,,,,,,,,,,,,,,
+31 dic 1969 21:01:29,2001,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2001,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2001,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,514 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2001,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:29,2001,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,N-PE,0.17 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,N-PE,0.16 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-PE,0.19 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-PE,0.24 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-N,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-N,0.17 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,N-PE,0.28 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,N-PE,0.28 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-PE,0.24 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-PE,0.24 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-N,0.26 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,6,,Prueba de continuidad,L-N,0.26 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,N-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,N-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-N,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-N,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,N-PE,0.30 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,N-PE,0.30 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,2,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,4,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,4,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,4,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,4,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:28,1,,2,,4,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,4,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+,,,,,,,Prueba de aislamiento,N-PE,,,,,,,,,,,,,,,
+31 dic 1969 21:01:27,2,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,2,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,2,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de continuidad,N-PE,0.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de continuidad,N-PE,0.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:27,1,,2,,1,,Prueba de continuidad,L-PE,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,1,,2,,1,,Prueba de continuidad,L-PE,0.19 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,1,,2,,1,,Prueba de continuidad,L-N,0.09 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,1,,2,,1,,Prueba de continuidad,L-N,0.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,2,,2,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,2,,2,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:01:26,2,,2,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.08 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,2,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,2,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.18 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.18 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:07,1,,1,,5,,Prueba de continuidad,L-N,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.27 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.27 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.14 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.14 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.13 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.11 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.09 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.09 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.05 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.53 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.52 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.51 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.01 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.01 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,N-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-PE,0.16 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.13 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,1,,1,,5,,Prueba de continuidad,L-N,0.14 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,3,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,3,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:06,2,,1,,3,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.49 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.49 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.41 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.43 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.51 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.52 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.49 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.28 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.28 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.22 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.23 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.57 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.39 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.38 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.38 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.39 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,N-PE,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.16 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-PE,0.17 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,1,,1,,4,,Prueba de continuidad,L-N,0.15 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,2,,1,,3,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,2,,1,,3,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:05,2,,1,,3,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.19 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.19 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.19 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.18 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.03 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.13 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.14 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.14 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.08 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.08 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.36 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.22 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.23 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.47 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.47 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.43 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.43 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.31 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.31 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.53 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.53 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.38 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.38 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.73 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,N-PE,0.73 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,3,,Prueba de continuidad,L-N,0.60 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:04,2,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.11 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.11 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.21 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.20 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.12 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.01 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.01 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.08 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.05 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,N-PE,0.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.09 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-PE,0.09 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,1,,1,,2,,Prueba de continuidad,L-N,0.01 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,L-N,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,N-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:03,2,,1,,1,,Prueba de aislamiento,L-PE,> 500.0 Mohm,520 V DC,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.81 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.81 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.83 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.84 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.57 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.83 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.83 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.85 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.86 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.74 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.74 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.76 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.76 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.70 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.71 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.71 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.71 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.72 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.73 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.70 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.71 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.73 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.73 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.61 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.64 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.98 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,1.00 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,1.04 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,1.06 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.58 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:02,1,,1,,1,,Prueba de continuidad,L-N,0.58 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.60 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.61 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.70 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.70 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.71 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.43 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.43 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.58 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.59 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.60 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.60 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.56 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.75 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.75 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.77 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.77 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.33 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,1.05 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,1.05 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,1.07 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,1.08 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.23 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.23 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.39 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.39 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.41 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.41 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.53 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.52 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.37 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,N-PE,0.54 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:01,1,,1,,1,,Prueba de continuidad,L-N,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.44 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.46 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.47 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,1.16 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,1.18 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,1.22 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,1.26 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.35 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.44 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.45 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.67 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.84 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.85 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.42 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.48 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.88 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.88 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.95 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.96 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.98 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.98 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.84 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.84 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.91 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.92 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.94 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.95 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.50 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.61 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.62 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.66 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.52 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.52 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.60 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.61 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.63 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.57 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,N-PE,0.57 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.65 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-PE,0.66 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.68 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
+31 dic 1969 21:00:00,1,,1,,1,,Prueba de continuidad,L-N,0.69 ohm,,,,,,,,,No asignado,,gomzacari@gmail.com,FLUKE 1664FC,1664FC Prueba,4012368
